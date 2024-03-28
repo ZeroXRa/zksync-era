@@ -1,5 +1,12 @@
 # Changelog
 
+## [22.2.0](https://github.com/matter-labs/zksync-era/compare/core-v22.1.0...core-v22.2.0) (2024-03-28)
+
+
+### Features
+
+* Validium ([#1461](https://github.com/matter-labs/zksync-era/issues/1461)) ([132a169](https://github.com/matter-labs/zksync-era/commit/132a1691de00eb3ca8fa7bd456a4591d84b24a5d))
+
 ## [22.1.0](https://github.com/matter-labs/zksync-era/compare/core-v22.0.0...core-v22.1.0) (2024-03-28)
 
 
